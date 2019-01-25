@@ -4,6 +4,7 @@
 There are many steps that you have to complete to implement this sketch successfully:
   - Install [MPU6050 library]
   - Check MPU6050 offset values to verify G values on axes
+  - Change "COM" port in 3Dvisual.m file
 
 ## Hardware Connection
 #### Arduino - MPU6050 (i2c)
