@@ -4,6 +4,8 @@
 There are many steps that you have to complete to implement this sketch successfully:
   - Install [MPU6050 library]
   - Check MPU6050 offset values to verify G values on axes
+  
+You can watch the demo video: [YouTube Video]
 
 ## Hardware Connection
 #### Arduino - MPU6050 (i2c)
@@ -29,3 +31,4 @@ This is a part of our project and it is the first draft of the code. We will dev
 **Free Software, Hell Yeah!**
 
 [MPU6050 library]: <https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050>
+[YouTube Video]: <https://youtu.be/0MM6cKzimXs>
